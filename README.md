@@ -1,8 +1,7 @@
-## Olá👋! Eu sou Lorenzo Martins
+## 👋Lorenzo Martins
 
     👨‍💻 - Atualmente trabalhano em front-end e back-end
     📚 - Estudando redes
-    😀 - Pronemes: Ele/dele
  <div>
   <a href="https://github.com/LorenzoMartins7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorenzoMartins7&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
